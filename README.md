@@ -1,6 +1,7 @@
-# Repositorio del curso "Aprender Arduino desde 0. Crea tu proyecto"
+# Repositorio del curso "Aprende Arduino desde 0. Crea tu proyecto"
 
 https://www.udemy.com/arduino-cero
+
 
 #ArduinoDsD0
 
