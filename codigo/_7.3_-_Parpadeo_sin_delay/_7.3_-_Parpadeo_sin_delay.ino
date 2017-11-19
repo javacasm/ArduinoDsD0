@@ -17,7 +17,7 @@ by JAVacasM
 
 /* ==== Defines - Constantes ==== */
 #define PIN_LED 13
-#define intervalo 1000  // intervalo de parpadeo
+#define INTERVALO 1000  // intervalo de parpadeo
 /* ==== END Defines ==== */
 
 /* ==== Variables Globales ==== */
@@ -37,8 +37,8 @@ void setup() {
 /* ==== Loop - Codigo que se repite==== */
 void loop() {
  unsigned long actualMillis = millis();
-  if(actualMillis - anteriorMillis > intervalo) {
-    anteriorMillis = anteriorMillis;   
+  if(actualMillis - anteriorMillis > INTERVALO) {
+    anteriorMillis = actualMillis;   
     if (estadoLed == LOW) {
       estadoLed = HIGH;
     } else {
