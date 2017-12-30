@@ -1,5 +1,5 @@
 
-#define PIN_TILT   2
+#define PIN_BOTON   2
 #define PIN_LED   13
 
 void setup() {
