@@ -9,3 +9,5 @@ https://www.udemy.com/arduino-cero
 ## [Código de los ejemplos](./codigo/)
 
 ## [Circuitos de ejemplo con Fritzing](./Frintzing)
+
+## [Componentes para realizar el curso](./Kit.md)
