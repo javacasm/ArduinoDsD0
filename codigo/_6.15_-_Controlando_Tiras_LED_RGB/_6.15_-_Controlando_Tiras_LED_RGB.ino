@@ -7,8 +7,12 @@ Controlaremos la intensidad de la ilumniacion con un potenciometro
 
 Montaje
 
-Potenciometro                     A0
-Transistor Mosfet (de potencia)    9
+Potenciometro Verde               A0
+Potencimetro Rojo                 A1
+Potenciometro Azul                A2
+Transistor Mosfet (de potencia) Azul     9
+Transistor Mosfet (de potencia) Rojo     10
+Transistor Mosfet (de potencia) Verde     11
 
 by JAVacasM
 */
